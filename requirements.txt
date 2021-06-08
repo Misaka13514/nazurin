@@ -13,5 +13,5 @@ motor==2.4.0
 aiofiles==0.7.0
 aiojobs==0.3.0
 beautifulsoup4==4.9.3
-dataclasses==0.8
+dataclasses==0.6
 tinydb==4.4.0
